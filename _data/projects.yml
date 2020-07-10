@@ -10,11 +10,11 @@
 
     QBox is a secure file-sharing service. It is a customized version of the popularly available VSFTPD server.
     
-    Learn't the following things on the go:
+    Learnt the following things on the go:
     - Created pre-install scripts to run system checks, install and configure QBox.
     - Developed tools to automatically analyze performance and functionality issues in different versions of QBox.
 
-    Skills Learn't: 
+    Skills Learnt: 
     <mark>Linux Commands</mark>
     <mark>OS Concepts</mark>
     <mark>Networking Concepts</mark>
@@ -26,12 +26,12 @@
 
     QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.
     
-    Learn't the following things on the go:
+    Learnt the following things on the go:
     - Implemented the core logic of the portfolio manager and published it as a library.
     - Refactored code to add support for multiple stock quote services.
     - Improved application stability and performance.
 
-    Skills Learn't: 
+    Skills Learnt: 
     <mark>Java</mark>
     <mark>REST API</mark>
     <mark>Jackson</mark>
@@ -45,12 +45,12 @@
 
     QCharm is an online IDE. Programmers use QCharm to write source code and execute it inside the editor.
     
-    Learn't the following things on the go:
+    Learnt the following things on the go:
     - Implemented basic editor features that included: opening a file, navigation, search/replace, cut/copy/paste, undo/redo.
     - Implemented the same functionality with multiple data structures to understand the effect of design choices on performance.
     - Improved the performance further by using hybrid data structures and algorithms.
 
-    Skills Learn't: 
+    Skills Learnt: 
     <mark>Applied DS</mark>
     <mark>ArrayList</mark>
     <mark>Naive Search</mark>

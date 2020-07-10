@@ -10,7 +10,7 @@ phone: +91-8360734123
 # website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
