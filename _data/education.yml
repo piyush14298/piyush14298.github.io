@@ -1,9 +1,11 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: BML Munjal University
+  dates: 2017- 2021 , 9.81 CGPA
+  qualification: BTech, Computer Science
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    - During my stay at the college, I learn't a ton of new things, both related to academics and co-curricular.
+    - The course framework was quite broad and touched upon most of the things required for a overall developement as 
+    a computer science engineer.
+    - Taking about the co-curricular activities, the two things I admire the most which I learn't here are- BasketBall and Photography.
+    

@@ -46,8 +46,11 @@ linkedin_username: piyush14298
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+  
   Hi, my name is Piyush. I am a student at BML Munjal University. I am a passionate coder and have experience in Algorithms, 
-  Data Structures, backend developement, web developement, etc. 
+  Data Structures, backend developement, web developement, etc. As a natural born go-getter, my passion has continuously driven 
+  me to expand my knowledge, experience, and relationships. With a strong background and diverse skill set, I’m confident in 
+  the creative ideas and successful solutions I bring to the table. Keep exploring my site to learn more information about me.
 
   I have worked with many languages, frameworks and technologies like <mark>C++</mark>, <mark>Java</mark>, <mark>Python</mark>
   , <mark>REST APIs</mark>, <mark>Vue</mark>, <mark>MySQL</mark>, <mark>git</mark>, etc.
