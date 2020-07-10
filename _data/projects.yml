@@ -9,6 +9,7 @@
     **QBox**
 
     QBox is a secure file-sharing service. It is a customized version of the popularly available VSFTPD server.
+    
     Learn't the following things on the go:
     - Created pre-install scripts to run system checks, install and configure QBox.
     - Developed tools to automatically analyze performance and functionality issues in different versions of QBox.
@@ -19,9 +20,12 @@
     <mark>Networking Concepts</mark>
     <mark>Network Security</mark>
 
+
+
     **QMoney**
 
     QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.
+    
     Learn't the following things on the go:
     - Implemented the core logic of the portfolio manager and published it as a library.
     - Refactored code to add support for multiple stock quote services.
@@ -35,9 +39,12 @@
     <mark>Code Refactoring</mark>
     <mark>Gradle</mark>
 
+
+
     **QCharm**
 
     QCharm is an online IDE. Programmers use QCharm to write source code and execute it inside the editor.
+    
     Learn't the following things on the go:
     - Implemented basic editor features that included: opening a file, navigation, search/replace, cut/copy/paste, undo/redo.
     - Implemented the same functionality with multiple data structures to understand the effect of design choices on performance.
@@ -50,3 +57,31 @@
     <mark>String manipulation</mark>
     <mark>KMP search</mark>
     <mark>Linked List</mark>
+
+- layout: top-middle
+  name: Encrypted Neural Networks
+  # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
+  github: https://github.com/piyush14298/Homomorphic-Encryption-for-Training-Nueral-Networks
+  quote: >
+    Homomorphic encryption for training Neural Networks
+  description: | # this will include new lines to allow paragraphs
+    - This project was part of Cryptography Course at university.
+    - Taking advantage of the property of homomorphic encryption scheme of allowing arithmetic operation over encrypted text,
+    me along with a classmate developed a neural network which could be trained over encrypted data.
+    - This is a step towards a private and secure future considering that the future is AI based.
+    - Used Somewhat Homomorphic Encryption system proposed by [Zhou and Wornell](https://www.rle.mit.edu/sia/wp-content/uploads/2015/04/2014-zhou-wornell-ita.pdf).
+
+- layout: top-middle
+  name: Research Assist
+  # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
+  github: https://github.com/makeavish/ResearchAssist
+  quote: >
+    An Assistant for Researchers
+  description: | # this will include new lines to allow paragraphs
+    - This tool helps researchers to find research papers on topic which they are working on.
+    - The researcher provides a link to a sample research paper (pdf) and then this tool parse the text from 
+    pdf to create a query which is used to crawl the internet.
+    - This tool uses focused crawling which helped reduce search time and improved efficiency.
+    - As this tool crawls the internet to search for research papers so it can only find openly accessible research papers.
+    - Implemented using Python and its libraries like <mark>BeautifulSoup</mark> ,<mark>NLTK</mark> , 
+    <mark>request</mark> , <mark>PyPDF</mark>.
