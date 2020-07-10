@@ -6,7 +6,7 @@
   quote: >
     Worked on backend of QBox, QMoney and QCharm
   description: | # this will include new lines to allow paragraphs
-    *QBox*
+    **QBox**
 
     QBox is a secure file-sharing service. It is a customized version of the popularly available VSFTPD server.
     Learn't the following things on the go:
@@ -19,7 +19,7 @@
     <mark>Networking Concepts</mark>
     <mark>Network Security</mark>
 
-    *QMoney*
+    **QMoney**
 
     QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.
     Learn't the following things on the go:
@@ -35,7 +35,7 @@
     <mark>Code Refactoring</mark>
     <mark>Gradle</mark>
 
-    *QCharm*
+    **QCharm**
 
     QCharm is an online IDE. Programmers use QCharm to write source code and execute it inside the editor.
     Learn't the following things on the go:
