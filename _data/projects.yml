@@ -1,9 +1,52 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Crio Launch MicroExperiences
+  link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Worked on backend of QBox, QMoney and QCharm
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    *QBox*
+
+    QBox is a secure file-sharing service. It is a customized version of the popularly available VSFTPD server.
+    Learn't the following things on the go:
+    - Created pre-install scripts to run system checks, install and configure QBox.
+    - Developed tools to automatically analyze performance and functionality issues in different versions of QBox.
+
+    Skills Learn't: 
+    <mark>Linux Commands</mark>
+    <mark>OS Concepts</mark>
+    <mark>Networking Concepts</mark>
+    <mark>Network Security</mark>
+
+    *QMoney*
+
+    QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.
+    Learn't the following things on the go:
+    - Implemented the core logic of the portfolio manager and published it as a library.
+    - Refactored code to add support for multiple stock quote services.
+    - Improved application stability and performance.
+
+    Skills Learn't: 
+    <mark>Java</mark>
+    <mark>REST API</mark>
+    <mark>Jackson</mark>
+    <mark>Interfaces</mark>
+    <mark>Code Refactoring</mark>
+    <mark>Gradle</mark>
+
+    *QCharm*
+
+    QCharm is an online IDE. Programmers use QCharm to write source code and execute it inside the editor.
+    Learn't the following things on the go:
+    - Implemented basic editor features that included: opening a file, navigation, search/replace, cut/copy/paste, undo/redo.
+    - Implemented the same functionality with multiple data structures to understand the effect of design choices on performance.
+    - Improved the performance further by using hybrid data structures and algorithms.
+
+    Skills Learn't: 
+    <mark>Applied DS</mark>
+    <mark>ArrayList</mark>
+    <mark>Naive Search</mark>
+    <mark>String manipulation</mark>
+    <mark>KMP search</mark>
+    <mark>Linked List</mark>
