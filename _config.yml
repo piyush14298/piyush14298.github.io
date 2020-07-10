@@ -28,10 +28,10 @@ linkedin_username: piyush14298
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,13 +46,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name is Piyush. I am a student at BML Munjal University. I am a passionate coder and have experience in Algorithms, 
+  Data Structures, backend developement, web developement, etc. 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I have worked with many languages, frameworks and technologies like <mark>C++</mark>, <mark>Java</mark>, <mark>Python</mark>
+  , <mark>REST APIs</mark>, <mark>Vue</mark>, <mark>MySQL</mark>, <mark>git</mark>, etc.
+
+  Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities 
+  to the real world scenarios and solve real world problems. 
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
