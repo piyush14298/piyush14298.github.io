@@ -28,10 +28,10 @@ linkedin_username: piyush14298
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+- title: Resume
+  icon: fa-adobe
+  url: https://bit.ly/PiyushResume
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -70,12 +70,20 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  **Skills**
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  <mark>Programming</mark>, <mark>C++</mark>, <mark>Java</mark>, <mark>Python</mark>, <mark>Shell</mark>, <mark>Git</mark>
+  , <mark>REST APIs</mark>
+  , <mark>Linux</mark>, <mark>Vue</mark>
+
+  **Acheivements**
+  - Qualified for <mark>Smart India Hackathon Finals</mark>
+  - Qualified for <mark>Crio Launch</mark> (top 300/10000)
+  - <mark>ACM ICPC</mark> Kanpur Regionals ([rank](https://icpc.global/ICPCID/N1YJBDMOQZVH) 37/106)
+  - <mark>ACM ICPC</mark> Qualifier Round ([rank](https://icpc.global/ICPCID/N1YJBDMOQZVH) 179/4401)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

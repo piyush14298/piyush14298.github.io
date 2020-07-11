@@ -122,6 +122,19 @@
     ---
 
 - layout: top-middle
+  name: ToDo App
+  # link: https://bit.ly/SecurityAnalysisReport
+  github: https://github.com/piyush14298/ToDo-App
+  quote: >
+    Developed a web app for maintaining todos
+  description: | # this will include new lines to allow paragraphs
+    - Worked on a <mark>Vue</mark> based web app for maintaining ToDos.
+    - Built upon an already existing app and added some functionalities to it.
+    - Currently adding more features to it.
+
+    ---
+
+- layout: top-middle
   name: Security Analysis for HealthCare services
   link: https://bit.ly/SecurityAnalysisReport
   # github: https://github.com/makeavish/ResearchAssist
