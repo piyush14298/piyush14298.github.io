@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: Crio Launch MicroExperiences
-  link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
+  link: https://bit.ly/CrioLaunchPiyush
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Worked on backend of QBox, QMoney and QCharm
@@ -58,6 +58,8 @@
     <mark>KMP search</mark>
     <mark>Linked List</mark>
 
+    ---
+
 - layout: top-middle
   name: Encrypted Neural Networks
   # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
@@ -70,6 +72,8 @@
     me along with a classmate developed a neural network which could be trained over encrypted data.
     - This is a step towards a private and secure future considering that the future is AI based.
     - Used Somewhat Homomorphic Encryption system proposed by [Zhou and Wornell](https://www.rle.mit.edu/sia/wp-content/uploads/2015/04/2014-zhou-wornell-ita.pdf).
+
+    ---
 
 - layout: top-middle
   name: Research Assist
@@ -85,3 +89,47 @@
     - As this tool crawls the internet to search for research papers so it can only find openly accessible research papers.
     - Implemented using Python and its libraries like <mark>BeautifulSoup</mark> ,<mark>NLTK</mark> , 
     <mark>request</mark> , <mark>PyPDF</mark>.
+
+    ---
+
+- layout: top-middle
+  name: Cyber Abuse Revelation Engine
+  # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
+  # github: https://github.com/makeavish/ResearchAssist
+  quote: >
+    Smart India Hackathon Finals
+  description: | # this will include new lines to allow paragraphs
+    - As a part of Smart India Hackathon, built an engine that would crawl the surface web,
+    search for child abuse, women abuse, cyber bullying and pornography and would
+    report the same to the authorities. 
+    - The implementation included use of <mark>Information
+    retrieval</mark>, <mark>Machine learning</mark> and <mark>Natural language processing</mark>.
+
+    ---
+
+- layout: top-middle
+  name: Waste Management using Blockchain
+  # link: https://bit.ly/SecurityAnalysisReport
+  # github: https://github.com/makeavish/ResearchAssist
+  quote: >
+    Developed a novel idea for waste segreagation and management
+  description: | # this will include new lines to allow paragraphs
+    - Worked on developing an idea for making waste segregation and collection easy and fruitful using blockchain. 
+    - The idea was developed by me and my team mates during an academic course. 
+    - Considering the novelty of the idea, 
+    a patent was filed for the same which is currently under evaluation.
+
+    ---
+
+- layout: top-middle
+  name: Security Analysis for HealthCare services
+  link: https://bit.ly/SecurityAnalysisReport
+  # github: https://github.com/makeavish/ResearchAssist
+  quote: >
+    Security Analysis of Cloud-IoT based environment for HealthCare services
+  description: | # this will include new lines to allow paragraphs
+    The project dealt with security analysis of cloud-IoT based environment which has potential applications 
+    in health care services of the future. It mainly dealt with creating a new protocol for transmission of user's 
+    data over the insecure internet by analysing the present proposed protocols and improving them to obtain a lightweight 
+    but effective protocol. In the process I learned <mark>HLPSL</mark> (High Level Protocol Specification Language) and 
+    <mark>AVISPA</mark> tool for testing new protocols.

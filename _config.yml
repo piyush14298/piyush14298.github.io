@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/pic.jpg
 
 # Personal info
 name: Piyush
@@ -44,7 +44,7 @@ linkedin_username: piyush14298
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   
   Hi, my name is Piyush. I am a student at BML Munjal University. I am a passionate coder and have experience in Algorithms, 
