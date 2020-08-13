@@ -60,7 +60,7 @@
 
 #     ---
 
-- layout: top-middle
+- layout: left
   name: Encrypted Neural Networks
   # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
   github: https://github.com/piyush14298/Homomorphic-Encryption-for-Training-Nueral-Networks
@@ -75,7 +75,7 @@
 
     ---
 
-- layout: top-middle
+- layout: left
   name: Research Assist
   # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
   github: https://github.com/makeavish/ResearchAssist
@@ -92,7 +92,7 @@
 
     ---
 
-- layout: top-middle
+- layout: left
   name: Cyber Abuse Revelation Engine
   # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
   # github: https://github.com/makeavish/ResearchAssist
@@ -107,7 +107,7 @@
 
     ---
 
-- layout: top-middle
+- layout: left
   name: Waste Management using Blockchain
   # link: https://bit.ly/SecurityAnalysisReport
   # github: https://github.com/makeavish/ResearchAssist
@@ -120,7 +120,7 @@
 
     ---
 
-- layout: top-middle
+- layout: left
   name: ToDo App
   # link: https://bit.ly/SecurityAnalysisReport
   github: https://github.com/piyush14298/ToDo-App
@@ -133,7 +133,7 @@
 
     ---
 
-- layout: top-middle
+- layout: left
   name: Security Analysis for HealthCare services
   link: https://bit.ly/SecurityAnalysisReport
   # github: https://github.com/makeavish/ResearchAssist
