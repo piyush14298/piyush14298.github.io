@@ -70,6 +70,7 @@
     - A web application implemented in Django to act as a Diagnostic tool for patients
     - Currently implemented a Covid-19 Risk analysis Calculator using machine learning models
     - A dynamic web application which takes data of the user as an input and gives risk of contracting Covid-19
+    
     ---
 
 - layout: left
