@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   the creative ideas and successful solutions I bring to the table. Keep exploring my site to learn more information about me.
 
   I have worked with many languages, frameworks and technologies like <mark>C++</mark>, <mark>Java</mark>, <mark>Python</mark>
-  , <mark>REST APIs</mark>, <mark>Vue</mark>, <mark>MySQL</mark>, <mark>git</mark>, etc.
+  , <mark>REST APIs</mark>, <mark>Django</mark>, <mark>MySQL</mark>, <mark>git</mark>, etc.
 
   Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities 
   to the real world scenarios and solve real world problems. 
@@ -74,7 +74,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   <mark>Programming</mark>, <mark>C++</mark>, <mark>Java</mark>, <mark>Python</mark>, <mark>Shell</mark>, <mark>Git</mark>
   , <mark>REST APIs</mark>
-  , <mark>Linux</mark>, <mark>Vue</mark>
+  , <mark>Linux</mark>, <mark>Django</mark>
 
   **Acheivements**
   - 32 / 16299 Rank in TCS Codevita Season 9
