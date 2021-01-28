@@ -78,7 +78,7 @@
 - layout: left
   name: Encrypted Neural Networks
   # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
-  github: https://github.com/piyush14298/Homomorphic-Encryption-for-Training-Nueral-Networks
+  github: /piyush14298/Homomorphic-Encryption-for-Training-Nueral-Networks
   quote: >
     Homomorphic encryption for training Neural Networks
   description: | # this will include new lines to allow paragraphs
@@ -93,7 +93,7 @@
 - layout: left
   name: Research Assist
   # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
-  github: https://github.com/makeavish/ResearchAssist
+  github: /makeavish/ResearchAssist
   quote: >
     An Assistant for Researchers
   description: | # this will include new lines to allow paragraphs
@@ -138,7 +138,7 @@
 - layout: left
   name: ToDo App
   # link: https://bit.ly/SecurityAnalysisReport
-  github: https://github.com/piyush14298/ToDo-App
+  github: /piyush14298/ToDo-App
   quote: >
     Developed a web app for maintaining todos
   description: | # this will include new lines to allow paragraphs
