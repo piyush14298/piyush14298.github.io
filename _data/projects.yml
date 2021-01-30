@@ -138,7 +138,7 @@
 - layout: left
   name: ToDo App
   # link: https://bit.ly/SecurityAnalysisReport
-  github: /piyush14298/ToDo-App
+  github: piyush14298/ToDo-App
   quote: >
     Developed a web app for maintaining todos
   description: | # this will include new lines to allow paragraphs
