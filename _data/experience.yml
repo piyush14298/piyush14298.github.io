@@ -1,5 +1,20 @@
 # Experience template
 - layout: left
+  company: OkCredit
+  link: okcredit.in
+  job_title: Software Engineer Intern
+  dates: Feb 2021 - Present
+  quote: >
+   Worked as a part of Payments team on the backend
+  description: | # this will include new lines to allow paragraphs
+    - I am a part of the payments team whose task is to take care of the whole payments done on the platform between merchant and customers.
+    - Worked on building internal tools to improve the efficiency of the teams by reducing the complexity of processes.
+    - Highly involved in the process of setting up a new PSP on our platform.
+    - Added new functionalities in the current codebase to improve functionalities of dependent teams.
+
+    ---
+
+- layout: left
   company: Crio.do
   # link: Link to company (optional)
   job_title: Student Developer

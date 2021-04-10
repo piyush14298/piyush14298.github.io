@@ -10,4 +10,5 @@ Openly available under [MIT License](https://opensource.org/licenses/MIT)
 
 ## To run locally
 > bundle install
+
 > bundle exec jekyll serve

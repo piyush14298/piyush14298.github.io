@@ -62,16 +62,17 @@
 
 - layout: left
   name: eNidaan
-  # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
-  # github: https://github.com/eNidaan
+  link: bit.ly/eNidaan
+  github: https://github.com/eNidaan
   quote: >
-    An overall diagnostic system (Under development)
+   COVID-19 risk assesment and predictor tool
   description: | # this will include new lines to allow paragraphs
-    - A web application implemented in Django to act as a Diagnostic tool for patients.
-    - Currently implemented a Covid-19 Risk analysis Calculator and XRay analyser using machine learning models reaching an accuracy of over 98% overall. 
-    - Built a dynamic web application which takes data of the user about his habits and other key parameters as an input and gives risk of contracting Covid-19.
-    - Based on the risk calculated in the first step, recommends to take the XRay analysis. 
-    - The XRay image is uploaded onto the web application which is then analysed by the ML models and the risk is predicted with an accuracy of more than 98%.
+    - Developed an COVID-19 risk assessment tool and COVID-19 predictor tool based on Chest X-Rays.
+    - There were two parts: Risk assessment, Chest X-Ray analysis
+      - Risk assesment was based on dataset by Nexiod and we tested and compared multiple ML models after data preprocessing
+      - Covid Predictor was built using deep learning models trained using transfer learning and also tried a model built from scratch
+      - We achieved around 98% accuracy in predicting COVID-19 from Chest X-Rays.
+    - Deployed these models using Django framework, Python, HTML, CSS.
 
     ---
 
